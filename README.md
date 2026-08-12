@@ -4,7 +4,7 @@
 
 23,524 adults surveyed across **Kenya, Rwanda, Tanzania and Uganda**
 (FinScope surveys via the Zindi *Financial Inclusion in Africa* challenge).
-Only **14.1%** have a bank account — **Kenya leads at 25.1%**. The project
+Only **14.1%** have a bank account **Kenya leads at 25.1%**. The project
 mines who is included, who is excluded, and predicts it per household.
 
 ## How to run (tested end to end)
